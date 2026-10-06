@@ -1,0 +1,5 @@
+# Anaconda Navigator / Jupyter project metadata (local only)
+anaconda_projects/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
